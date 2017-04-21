@@ -10,3 +10,6 @@ so this aims to just be you know, better.
 
 #### Arc-Dark
 ![](https://raw.githubusercontent.com/wjmcknight/openbox-arc-suite/master/Previews/arc-dark.png)
+
+#### Arc-Darker
+![](https://raw.githubusercontent.com/wjmcknight/openbox-arc-suite/master/Previews/arc-darker.png)
