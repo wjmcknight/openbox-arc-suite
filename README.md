@@ -7,3 +7,6 @@ so this aims to just be you know, better.
 ### Previews
 #### Arc
 ![](https://raw.githubusercontent.com/wjmcknight/openbox-arc-suite/master/Previews/arc.png)
+
+#### Arc-Dark
+![](https://raw.githubusercontent.com/wjmcknight/openbox-arc-suite/master/Previews/arc-dark.png)
