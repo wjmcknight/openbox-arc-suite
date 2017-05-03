@@ -12,6 +12,10 @@ themes installed.
 If you have them installed for just your user under ~/.themes install like so:
 
     $ git clone https://github.com/wjmcknight/openbox-arc-suite.git
+    $ https://github.com/wjmcknight/openbox-arc-suite.git
+    $ for i in {Arc,Arc-Dark,Arc-Darker}/openbox-3; do
+    > cp -R $i ~/.themes/$i
+    > done
 
 ### Previews
 #### Arc
