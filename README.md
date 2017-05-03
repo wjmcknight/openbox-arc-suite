@@ -11,7 +11,7 @@ themes installed.
 
 If you have them installed for just your user under ~/.themes install like so:
 
-$ git clone https://github.com/wjmcknight/openbox-arc-suite.git
+    $ git clone https://github.com/wjmcknight/openbox-arc-suite.git
 
 ### Previews
 #### Arc
